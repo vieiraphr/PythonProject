@@ -27,4 +27,4 @@ while tentativas < 3:
 if tentativas == 3:
     print("Número máximo de tentativas atingida.")
 
-    #Projeto básico para aprimoramento de conhecimentos em Pytho
+    #Projeto básico para aprimoramento de conhecimentos em Python
