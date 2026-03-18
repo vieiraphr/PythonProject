@@ -4,7 +4,7 @@ Este projeto foi desenvolvido para praticar lógica de programação em Python.
 
 ## 📌 Funcionalidades
 
-- Validação de tamanho do username
+- Validação de tamanho da senha
 - Limite de 3 tentativas
 - Verificação de:
   - Pelo menos 4 números
