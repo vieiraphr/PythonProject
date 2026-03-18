@@ -1,4 +1,4 @@
-# 🔐 Validador de Username em Python
+# 🔐 Validador de Senha em Python
 
 Este projeto foi desenvolvido para praticar lógica de programação em Python.
 
