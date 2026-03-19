@@ -63,7 +63,6 @@ while True:
 
             usuario_encontrado = None
 
-            # 🔍 procurar usuário
             for user, dados in usuarios.items():
                 if user == login or dados["email"] == login:
                     usuario_encontrado = user
@@ -89,17 +88,6 @@ while True:
         print("Saindo...")
         break
 
+    # ================= ERRO =================
     else:
-<<<<<<< HEAD
         print("Opção inválida")
-=======
-        print("SENHA CADASTRADA!")
-        break  # sai do loop quando estiver válido
-
-    tentativas += 1
-
-if tentativas == 3:
-    print("Número máximo de tentativas atingida.")
-
-    #Projeto básico para aprimoramento de conhecimentos em Python
->>>>>>> 8d9c80135a00cdb7c798707c6717513d12c7903b
