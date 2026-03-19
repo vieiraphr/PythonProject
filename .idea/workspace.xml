@@ -73,7 +73,7 @@
       <workItem from="1773834444777" duration="20216000" />
       <workItem from="1773860126067" duration="99000" />
       <workItem from="1773926433265" duration="897000" />
-      <workItem from="1773941747751" duration="3810000" />
+      <workItem from="1773941747751" duration="4113000" />
     </task>
     <task id="LOCAL-00001" summary="python study">
       <option name="closed" value="true" />
@@ -123,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773954591046</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ATUALIZAÇÃO">
+      <option name="closed" value="true" />
+      <created>1773954752692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773954752692</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
