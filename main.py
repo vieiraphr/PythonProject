@@ -91,3 +91,5 @@ while True:
     # ================= ERRO =================
     else:
         print("Opção inválida")
+
+        #EM PROCESSO!
