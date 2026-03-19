@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62fa6070-3026-4766-a322-ec44d2e8b925" name="Changes" comment="ATUALIZAÇÃO" />
+    <list default="true" id="62fa6070-3026-4766-a322-ec44d2e8b925" name="Changes" comment="ATUALIZAÇÃO 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,9 @@
       <workItem from="1773834444777" duration="20216000" />
       <workItem from="1773860126067" duration="99000" />
       <workItem from="1773926433265" duration="897000" />
-      <workItem from="1773941747751" duration="4113000" />
+      <workItem from="1773941747751" duration="4450000" />
+      <workItem from="1774006225723" duration="22000" />
+      <workItem from="1774018585089" duration="5356000" />
     </task>
     <task id="LOCAL-00001" summary="python study">
       <option name="closed" value="true" />
@@ -131,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773954752692</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ATUALIZAÇÃO 2">
+      <option name="closed" value="true" />
+      <created>1773955079883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773955079883</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,9 +165,10 @@
     <MESSAGE value="18/03/2026" />
     <MESSAGE value="python study" />
     <MESSAGE value="ATUALIZAÇÃO" />
-    <option name="LAST_COMMIT_MESSAGE" value="ATUALIZAÇÃO" />
+    <MESSAGE value="ATUALIZAÇÃO 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ATUALIZAÇÃO 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1773954504216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1774023374677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
